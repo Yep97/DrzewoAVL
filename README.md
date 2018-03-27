@@ -1,2 +1,0 @@
-# DrzewoAVL
-DrzewoAVLzad
